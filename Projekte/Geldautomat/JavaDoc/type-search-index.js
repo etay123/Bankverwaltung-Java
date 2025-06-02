@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Bankverwaltung"},{"p":"<Unnamed>","l":"Girokonto"},{"p":"<Unnamed>","l":"Konto"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Sparkonto"}];updateSearchResults();
